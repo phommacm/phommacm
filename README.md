@@ -9,7 +9,6 @@ I love exploring new technologies and turning complex ideas into clean, maintain
 
 ---
 
-<br/>
 <p align="center", id="tech stack">
   <img src="https://img.shields.io/badge/Python-555555?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Bash-555555?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>

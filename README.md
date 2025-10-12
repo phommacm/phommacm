@@ -8,3 +8,14 @@ I love exploring new technologies and turning complex ideas into clean, maintain
 🧠 Always breaking, always learning.
 
 ---
+
+<br/>
+<p align="center", id="tech stack">
+  <img src="https://img.shields.io/badge/Python-555555?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Bash-555555?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-555555?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
+  <img src="https://img.shields.io/badge/Terraform-555555?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/Docker-555555?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-555555?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Helm-555555?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/>
+</p>

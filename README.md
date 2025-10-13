@@ -15,6 +15,7 @@ I love exploring new technologies and turning complex ideas into clean, maintain
   <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/Google%20Cloud-0D1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4" alt="Google Cloud"/>
   <img src="https://img.shields.io/badge/Terraform-0D1117?style=for-the-badge&logo=terraform&logoColor=7B42BC" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/GitLab%20CI-0D1117?style=for-the-badge&logo=gitlab&logoColor=FC6D26" alt="GitLab CI"/>
   <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker"/>
   <img src="https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/Helm-0D1117?style=for-the-badge&logo=helm&logoColor=0F1689" alt="Helm"/>

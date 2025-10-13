@@ -19,3 +19,5 @@ I love exploring new technologies and turning complex ideas into clean, maintain
   <img src="https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/Helm-0D1117?style=for-the-badge&logo=helm&logoColor=0F1689" alt="Helm"/>
 </p>
+
+---
